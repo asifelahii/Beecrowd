@@ -1,0 +1,3 @@
+     {
+                printf("TRIANGULO EQUILATERO\n");
+       
